@@ -5,7 +5,6 @@
 #learninginpublic <br>
 💭 Currently learning about data analytics and dataviz!
 
-
 ## 🌐 Socials:
 [![Pinterest]() 
 
