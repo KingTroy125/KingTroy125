@@ -1,6 +1,5 @@
 ### 💫 Hi I'm Tristan
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>
-👩🏻‍🎓 Studied Computer Science at the University of <br>
+👩🏻‍💻 Frontend Developer and Software Developer sharing about my journey and learnings in tech<br>
 🎨 Making videos about Computer Science, tech, and productivity on YouTube<br>
 #learninginpublic <br>
 💭 Currently learning about data analytics and dataviz!
