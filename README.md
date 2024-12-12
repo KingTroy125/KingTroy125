@@ -4,7 +4,7 @@
 #learninginpublic <br>
 💭 Currently learning about data analytics and dataviz!
 
-https://www.notion.so/Tristan-OS-157ecc1f92058071b844dd9b23219204?pvs=4
+[https://www.notion.so/Tristan-OS-157ecc1f92058071b844dd9b23219204?pvs=4](https://persistent-show-e12.notion.site/Tristan-OS-157ecc1f92058071b844dd9b23219204)
 
 ### 📚 Education
 
