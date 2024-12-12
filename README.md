@@ -11,6 +11,8 @@
 ### 📜 Certifications
 
 * edX Verified Certificate for CS50's Introduction to Computer Science [Show credential]()
+* freecodecamps Verified Certificate for Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/KingTroy125/responsive-web-design)
+* 
 
 ## 🌐 Socials:
  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
