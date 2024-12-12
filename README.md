@@ -10,7 +10,6 @@
 
 ### 📜 Certifications
 
-* edX Verified Certificate for CS50's Introduction to Computer Science [Show credential]()
 * freecodecamps Verified Certificate for Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/KingTroy125/responsive-web-design)
 * freecodecamps Verified Certificate for Data Analysis with Python [Show credential](https://www.freecodecamp.org/certification/KingTroy125/data-analysis-with-python-v7)
 * simplilearn Verified Certificate for Introduction to Graphic Design: Basics of UI/UX [Show credential](https://simpli-web.app.link/e/cITy2ROSgPb)
