@@ -12,7 +12,7 @@
 
 * freecodecamps Verified Certificate for Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/KingTroy125/responsive-web-design)
 * freecodecamps Verified Certificate for Data Analysis with Python [Show credential](https://www.freecodecamp.org/certification/KingTroy125/data-analysis-with-python-v7)
-* simplilearn Verified Certificate for Introduction to Graphic Design: Basics of UI/UX [Show credential](https://simpli-web.app.link/e/cITy2ROSgPb)
+* simplilearn Verified Certificate for Introduction to Graphic Design: Basics of UI/UX [Show credential](https://simpli-web.app.link/e/3EfvBh3AiPb)
 * hplife Verified Certificate for Data Science & Analytics [Show credential](https://www.life-global.org/certificate/cfc67204-2656-447c-9c76-2b43d06e7482)
 * hplife Verified Certificate for 3D Printing [Show credential](https://www.life-global.org/certificate/85298b6c-15f0-4f8e-b011-4e202fabb0f1)
 
