@@ -15,6 +15,7 @@
 * simplilearn Verified Certificate for Introduction to Graphic Design: Basics of UI/UX [Show credential](https://simpli-web.app.link/e/3EfvBh3AiPb)
 * hplife Verified Certificate for Data Science & Analytics [Show credential](https://www.life-global.org/certificate/cfc67204-2656-447c-9c76-2b43d06e7482)
 * hplife Verified Certificate for 3D Printing [Show credential](https://www.life-global.org/certificate/85298b6c-15f0-4f8e-b011-4e202fabb0f1)
+* simplilearn Verified Certificae for Become a Content Manager : Introduction to WordPress [Show credential](https://simpli-web.app.link/e/TJcTx3ZSiPb)
 
 ## 🌐 Socials:
  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
