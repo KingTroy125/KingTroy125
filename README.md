@@ -4,7 +4,7 @@
 #learninginpublic <br>
 💭 Currently learning about data analytics and dataviz!
 
-### 📚 Education
+### 📚 Education 
 
 * CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `In progress...`
 
