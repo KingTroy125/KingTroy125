@@ -17,6 +17,7 @@
 * hplife Verified Certificate for 3D Printing [Show credential](https://www.life-global.org/certificate/85298b6c-15f0-4f8e-b011-4e202fabb0f1)
 * simplilearn Verified Certificate for Become a Content Manager : Introduction to WordPress [Show credential](https://simpli-web.app.link/e/TJcTx3ZSiPb)
 * simplilearn Verified certificate for Introduction to ITIL V4 [Show credential](https://simpli-web.app.link/e/bDTm2YgAOPb)
+* simplilearn Verified Certificate for What is Software Developement [Show credential](https://simpli-web.app.link/e/OjzrUaQCOPb)
 
 ## 🌐 Socials:
  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
