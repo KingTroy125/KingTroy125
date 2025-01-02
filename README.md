@@ -18,6 +18,7 @@
 * simplilearn Verified Certificate for Become a Content Manager : Introduction to WordPress [Show credential](https://simpli-web.app.link/e/TJcTx3ZSiPb)
 * simplilearn Verified certificate for Introduction to ITIL V4 [Show credential](https://simpli-web.app.link/e/bDTm2YgAOPb)
 * simplilearn Verified Certificate for What is Software Developement [Show credential](https://simpli-web.app.link/e/OjzrUaQCOPb)
+* simplileran Verified Certificate for Full-Stack Development 101: What is Full-Stack Development [Show credential](https://simpli-web.app.link/e/phEdJDKEOPb)
 
 ## 🌐 Socials:
  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
