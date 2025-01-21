@@ -8,6 +8,7 @@
 ### 📜 Certifications
 
 * freecodecamps Verified Certificate for Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/KingTroy125/responsive-web-design)
+* simplilearn Verified Certificate for Introduction to Cyber Security [Show credential](https://simpli-web.app.link/e/s2VgMeW5kQb)
 * freecodecamps Verified Certificate for Data Analysis with Python [Show credential](https://www.freecodecamp.org/certification/KingTroy125/data-analysis-with-python-v7)
 * simplilearn Verified Certificate for Introduction to Graphic Design: Basics of UI/UX [Show credential](https://simpli-web.app.link/e/3EfvBh3AiPb)
 * hplife Verified Certificate for Data Science & Analytics [Show credential](https://www.life-global.org/certificate/cfc67204-2656-447c-9c76-2b43d06e7482)
@@ -18,6 +19,7 @@
 * simplilearn Verified Certificate for Full-Stack Development 101: What is Full-Stack Development [Show credential](https://simpli-web.app.link/e/m28lRiPyaQb)
 * simplilearn Verified Certificate for Introduction to Figma [Show credential](https://simpli-web.app.link/e/obdgycq0bQb)
 * simplilearn Verified Certificate for Introduction to Kali Linux [Show credential](https://simpli-web.app.link/e/lof8khUZkQb)
+* 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
