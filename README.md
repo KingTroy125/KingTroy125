@@ -19,6 +19,7 @@
 * simplilearn Verified Certificate for Full-Stack Development 101: What is Full-Stack Development [Show credential](https://simpli-web.app.link/e/m28lRiPyaQb)
 * simplilearn Verified Certificate for Introduction to Figma [Show credential](https://simpli-web.app.link/e/obdgycq0bQb)
 * simplilearn Verified Certificate for Introduction to Kali Linux [Show credential](https://simpli-web.app.link/e/lof8khUZkQb)
+* simplilearn Verified Certificate for Introduction to Front-end Development [Show credential](https://simpli-web.app.link/e/puJXvR0jsQb)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
