@@ -22,6 +22,7 @@
 * simplilearn Verified Certificate for Introduction to Front-end Development [Show credential](https://simpli-web.app.link/e/puJXvR0jsQb)
 * LinkedIn Verified Certificate for The Cybersecurity Threat Landscape [Show redential](https://www.linkedin.com/learning/certificates/d53f017e8c0f1d8b206ea75468311e1e4c7eb1d9c4d67763da54d6b06166357c)
 * simplilearn Verified Certificate for Introduction to Prompt Engineering [Show redential](https://simpli-web.app.link/e/Q6WJwFQdIQb)
+* NEMISA on Microsoft Verified Certificate for Write your first code using C# (Get started with C#, Part 1)- UWC [[LPCertificate.pdf](https://github.com/user-attachments/files/18695673/LPCertificate.pdf)]
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
