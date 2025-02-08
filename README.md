@@ -1,11 +1,45 @@
+# Hey There! My Name is Tristan
 # 💫 About Me:
-👩🏻‍💻 Frontend Developer and Software Developer sharing about my journey and learnings in tech<br>🔭 I’m currently working on Next.js Projects<br>🌱 I’m currently learning Backend, Database and SQL<br>🎨 Making videos about Computer Science, tech, and productivity on YouTube<br>#learninginpublic
+I am a Computer Science Student!
+```
+public class Tristan
+{
+    private int age = 18;
+    public string[] Traits { get; } = { "Frontend Developer", "Software Developer", "Tech Enthusiast" };
+    public string[] Hobbies { get; } = { "Gaming", "Chess", "Sleeping", "Coding!" };
+    public string[] Learning { get; } = { "Backend Development", "Databases", "SQL" };
 
-### 📚 Education 
+    public int GetAge()
+    {
+        return age;
+    }
+}
+```
+👩🏻‍💻 Frontend Developer and Software Developer sharing about my journey and learnings in tech<br>
+🔭 I’m currently working on Next.js Projects<br>
+🌱 I’m currently learning Backend, Database and SQL<br>
+🎨 Making videos about Computer Science, tech, and productivity on YouTube<br>#learninginpublic
+
+# Credentials
+- Experience:
+  - Have been learning HTML (3 Years) at School
+  - Self-Taught Game Developer (1 Years) and Front-End Web Developer (3 Years)
+  - You can view a few of my projects here on my Github page!
+-----
+
+# What Am I Doing?
+- :clipboard: Currently I am:
+  - Self-teaching AI / Machine Learning and Next.js
+  - Grinding LeetCode
+-----
+
+# 📚 Education 
 
 * CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `In progress...`
 
-### 📜 Certifications
+-----
+
+# 📜 Certifications
 
 * freecodecamps Verified Certificate for Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/KingTroy125/responsive-web-design)
 * simplilearn Verified Certificate for Introduction to Cyber Security [Show credential](https://simpli-web.app.link/e/s2VgMeW5kQb)
@@ -23,6 +57,7 @@
 * LinkedIn Verified Certificate for The Cybersecurity Threat Landscape [Show redential](https://www.linkedin.com/learning/certificates/d53f017e8c0f1d8b206ea75468311e1e4c7eb1d9c4d67763da54d6b06166357c)
 * simplilearn Verified Certificate for Introduction to Prompt Engineering [Show redential](https://simpli-web.app.link/e/Q6WJwFQdIQb)
 * NEMISA on Microsoft Verified Certificate for Write your first code using C# (Get started with C#, Part 1)- UWC [LPCertificate.pdf](https://github.com/user-attachments/files/18695673/LPCertificate.pdf)
+-----
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
