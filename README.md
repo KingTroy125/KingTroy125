@@ -25,19 +25,16 @@ public class Tristan
   - Have been learning HTML (3 Years) at School
   - Self-Taught Game Developer (1 Years) and Front-End Web Developer (3 Years)
   - You can view a few of my projects here on my Github page!
------
 
 # What Am I Doing?
 - :clipboard: Currently I am:
   - Self-teaching AI / Machine Learning and Next.js
   - Grinding LeetCode
------
 
 # 📚 Education 
 
 * CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `In progress...`
 
------
 
 # 📜 Certifications
 
@@ -57,7 +54,6 @@ public class Tristan
 * LinkedIn Verified Certificate for The Cybersecurity Threat Landscape [Show redential](https://www.linkedin.com/learning/certificates/d53f017e8c0f1d8b206ea75468311e1e4c7eb1d9c4d67763da54d6b06166357c)
 * simplilearn Verified Certificate for Introduction to Prompt Engineering [Show redential](https://simpli-web.app.link/e/Q6WJwFQdIQb)
 * NEMISA on Microsoft Verified Certificate for Write your first code using C# (Get started with C#, Part 1)- UWC [LPCertificate.pdf](https://github.com/user-attachments/files/18695673/LPCertificate.pdf)
------
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
@@ -72,7 +68,6 @@ public class Tristan
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KingTroy125&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=KingTroy125&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
