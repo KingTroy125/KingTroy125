@@ -8,11 +8,6 @@ public class Tristan
     public string[] Traits { get; } = { "Frontend Developer", "Software Developer", "Tech Enthusiast" };
     public string[] Hobbies { get; } = { "Gaming", "Chess", "Sleeping", "Coding!" };
     public string[] Learning { get; } = { "Backend Development", "Databases", "SQL" };
-
-    public int GetAge()
-    {
-        return age;
-    }
 }
 ```
 👩🏻‍💻 Frontend Developer and Software Developer sharing about my journey and learnings in tech<br>
