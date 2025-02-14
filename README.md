@@ -29,6 +29,7 @@ public class Tristan
 # 📚 Education 
 
 * CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `In progress...`
+* CS50's Introduction to Computer Science from [Harvard Credential](https://cs50.harvard.edu/certificates/52ccb150-3894-427d-a9a4-689fc30754fc)
 
 
 # 📜 Certifications
