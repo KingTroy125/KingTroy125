@@ -52,6 +52,7 @@ public class Tristan
 * NEMISA on Microsoft Verified Certificate for Write your first code using C# (Get started with C#, Part 1)- UWC [LPCertificate.pdf](https://github.com/user-attachments/files/18695673/LPCertificate.pdf)
 * Electronic Arts - Software Engineering Job Simulation Verified Certificate [Show credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_LupChdZTK4DJzCvpQ_1739301666785_completion_certificate.pdf)
 * Skyscanner - Front-End Software Engineering Job Simulation Verified Certificate [Show credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_LupChdZTK4DJzCvpQ_1739401944311_completion_certificate.pdf)
+* Koenig - Introduction to OSPF on Huawei devices [Show credential](https://rms.koenig-solutions.com/Trainer/WebinarCertificate.aspx?stdid=9093547&&wid=5478)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
