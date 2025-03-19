@@ -55,6 +55,14 @@ public class Tristan
 * Koenig - Introduction to OSPF on Huawei devices [Show credential](https://rms.koenig-solutions.com/Trainer/WebinarCertificate.aspx?stdid=9093547&&wid=5478)
 * Cisco Networking Academy - Computer Hardware Basics [Show credential](https://www.credly.com/badges/fab191d0-5be5-496e-8eff-f67720927bd5/public_url)
 
+<h1 class="heading-element" dir="auto"> 🏆 Trophies</h1>
+<a id="user-content--trophies" class="anchor" aria-label="Permalink: 🏆 Trophies" href="#-trophies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<p dir="auto">
+<div>
+    <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" title="Write your first code using C# (Get started with C#, Part 1)" alt="Write your first code using C# (Get started with C#, Part 1)" width="50" height="50"/>&nbsp;
+    <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Microsoft Azure Fundamentals: Describe cloud concepts" alt="Microsoft Azure Fundamentals: Describe cloud concepts" width="50" height="50"/>&nbsp;
+</div>
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kingtroy2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-hendricks-89a789320/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tristan-Hendricks) 
 
