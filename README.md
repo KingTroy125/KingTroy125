@@ -24,7 +24,7 @@ public class Tristan
 # What Am I Doing?
 - :clipboard: Currently I am:
   - Self-teaching AI / Machine Learning and Next.js
-  - Grinding LeetCode
+  - Grinding LeetCode ( Im not that good in it but yea! :) )
 
 # 📚 Education 
 
