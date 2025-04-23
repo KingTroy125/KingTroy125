@@ -1,4 +1,4 @@
-# Hey There! My Name is Tristan
+![image](https://github.com/user-attachments/assets/e41d7a85-0767-46f5-865f-917f3cf4a5a4)# Hey There! My Name is Tristan
 # 💫 About Me:
 I am a Computer Science Student!
 ``` 
@@ -63,6 +63,7 @@ public class Tristan
 <div>
     <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" title="Write your first code using C# (Get started with C#, Part 1)" alt="Write your first code using C# (Get started with C#, Part 1)" width="50" height="50"/>&nbsp;
     <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Microsoft Azure Fundamentals: Describe cloud concepts" alt="Microsoft Azure Fundamentals: Describe cloud concepts" width="50" height="50"/>&nbsp;
+    <img scr="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" title="Microsoft AI Skills Fest | Festival participation" alt="Microsoft AI Skills Fest | Festival participation" width="50" height="50"/>&nbsp;
 </div>
 
 ## 🌐 Socials:
