@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e41d7a85-0767-46f5-865f-917f3cf4a5a4)# Hey There! My Name is Tristan
+# Hey There! My Name is Tristan
 # 💫 About Me:
 I am a Computer Science Student!
 ``` 
