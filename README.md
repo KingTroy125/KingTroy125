@@ -64,6 +64,7 @@ public class Tristan
     <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" title="Write your first code using C# (Get started with C#, Part 1)" alt="Write your first code using C# (Get started with C#, Part 1)" width="50" height="50"/>&nbsp;
     <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Microsoft Azure Fundamentals: Describe cloud concepts" alt="Microsoft Azure Fundamentals: Describe cloud concepts" width="50" height="50"/>&nbsp;
     <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" title="Microsoft AI Skills Fest | Festival participation" alt="Microsoft AI Skills Fest | Festival participation" width="50" height="50"/>&nbsp;
+    <img src="https://developers.google.com/static/profile/badges/events/io/2025/registered/badge.svg" title="Google I/O 2025" alt=" Google I/O 2025" width="50" height="50"/>&nbsp;
 </div>
 
 ## 🌐 Socials:
