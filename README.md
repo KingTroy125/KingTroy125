@@ -70,6 +70,8 @@ public class Tristan
 <h1 class="heading-element" dir="auto"> 🏆 Hackerthons Devpost and other</h1>
 <div>
     <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/552/datas/c1387e1971cd2d0e67200d956b460c07_medium_bronze.png" title="X Hackathons Level 1" alt="X Hackathons Level 1" width="50" height="50"/>&nbsp;
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/551/datas/ceffdfce970ff3dfa4435ebc5fc7f33a_medium.png" title="First online hackathon" alt="First online hackathon" width="50" height="50"/>&nbsp;
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/222/datas/2a2cd5de90e8e74016c5e23d387b74e0_medium.png" title="Generalist" alt="Generalist" width="50" height="50"/>&nbsp;
 </div>
 
 
