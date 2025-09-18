@@ -4,7 +4,7 @@ I am a Computer Science Student!
 ```           
 public class Tristan                 
 {     
-    private int age = 18;  
+    private int age = 18;   
     public string[] Traits { get; } = { "Frontend Developer", "Software Developer", "Tech Enthusiast" };
     public string[] Hobbies { get; } = { "Gaming", "Chess", "Sleeping", "Coding!" };
     public string[] Learning { get; } = { "Backend Development", "Databases", "SQL" };
