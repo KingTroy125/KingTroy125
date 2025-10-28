@@ -2,7 +2,7 @@
 # 💫 About Me:                 
 I am a Computer Science Student!                                     
 ```                           
-public class Tristan                           
+public class Tristan                            
 {           
     private int age = 19;    
     public string[] Traits { get; } = { "Frontend Developer", "Software Developer", "Tech Enthusiast" };
