@@ -1,4 +1,4 @@
-# Hey There! My Name is Tristan
+# Hey There! My Name is Tristan 
 # 💫 About Me:                    
 I am a Computer Science Student!                                          
 ```                                
