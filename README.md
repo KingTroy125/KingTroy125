@@ -173,7 +173,7 @@
 <br>
 
 <div align="center">
-  <h2>🏆 Trophies & Badges</h2>
+  <h2>Trophies & Badges</h2>
   <br>
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" title="Write your first code using C#" width="50" height="50"/>&nbsp;
   <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" title="Azure Fundamentals" width="50" height="50"/>&nbsp;
