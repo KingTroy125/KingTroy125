@@ -162,6 +162,7 @@
         <strong>Notable Certs</strong><br><br>
         <a href="https://www.freecodecamp.org/certification/KingTroy125/responsive-web-design"><img src="https://img.shields.io/badge/fCC%20Responsive%20Web%20Design-000000?style=for-the-badge&logo=freecodecamp&logoColor=white"></a><br><br>
         <a href="https://www.freecodecamp.org/certification/KingTroy125/data-analysis-with-python-v7"><img src="https://img.shields.io/badge/fCC%20Data%20Analysis%20Python-000000?style=for-the-badge&logo=freecodecamp&logoColor=white"></a><br><br>
+        <a href="https://www.freecodecamp.org/certification/kingtroy125/front-end-development-libraries"><img src="https://img.shields.io/badge/fCC%20Frontend%20Development%20Libraries-000000?style=for-the-badge&logo=freecodecamp&logoColor=white"></a><br><br>
         <a href="https://www.credly.com/badges/d41957ae-eded-4601-a830-de5d402e5b0e/public_url"><img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-000000?style=for-the-badge&logo=amazonaws&logoColor=white"></a><br><br>
         <a href="https://www.credly.com/badges/fab191d0-5be5-496e-8eff-f67720927bd5/public_url"><img src="https://img.shields.io/badge/Cisco%20Hardware%20Basics-000000?style=for-the-badge&logo=cisco&logoColor=white"></a><br><br>
         <a href="https://www.hackerrank.com/certificates/iframe/c8a99de906eb"><img src="https://img.shields.io/badge/HackerRank%20Problem%20Solving-000000?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
