@@ -48,8 +48,8 @@
 <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
   <h3>Top Projects (built to avoid doing things manually)</h3>
 
-  <a href="https://github.com/KingTroy125"><img src="https://img.shields.io/badge/Next.js%20Projects-000000?style=for-the-badge&logo=next.js&logoColor=white" valign="middle"></a>&nbsp; Whatever I'm building this week. Probably on fire.<br>
-  <a href="https://github.com/KingTroy125"><img src="https://img.shields.io/badge/Frontend%20Experiments-000000?style=for-the-badge&logo=react&logoColor=white" valign="middle"></a>&nbsp; React things that started as "quick projects" and spiralled.<br>
+  <a href="https://github.com/KingTroy125/Bot_Buddy"><img src="https://img.shields.io/badge/Next.js%20BotBuddy-000000?style=for-the-badge&logo=next.js&logoColor=white" valign="middle"></a>&nbsp; Whatever I'm building this week. Probably on fire.<br>
+  <a href="https://github.com/Layered-UI/Layered-UI"><img src="https://img.shields.io/badge/Frontend%20LayeredUI-000000?style=for-the-badge&logo=react&logoColor=white" valign="middle"></a>&nbsp; React things that started as "quick projects" and spiralled.<br>
   <a href="https://github.com/KingTroy125"><img src="https://img.shields.io/badge/Game%20Dev%20Stuff-000000?style=for-the-badge&logo=unity&logoColor=white" valign="middle"></a>&nbsp; Unity experiments from before I knew what I was doing. (still don't.)
 
 </div>
