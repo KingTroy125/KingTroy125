@@ -22,7 +22,7 @@
 
   <h3>Hey there! I'm Tristan 👋</h3>
 
-  I'm a 19-year-old CS student who taught myself how to code mostly by refusing to accept that clicking things manually was a reasonable life choice. I spend my days building frontends that (usually) don't break, grinding LeetCode (keyword: grinding, not succeeding), and like me, learn best by watching someone else suffer first. When I'm not coding, I'm probably playing chess, gaming, or sleeping — the holy trinity of the developer lifestyle.
+  I'm a CS student who taught myself how to code mostly by refusing to accept that clicking things manually was a reasonable life choice. I spend my days building frontends that (usually) don't break, grinding LeetCode (keyword: grinding, not succeeding), and like me, learn best by watching someone else suffer first. When I'm not coding, I'm probably playing chess, gaming, or sleeping — the holy trinity of the developer lifestyle.
 
   <br><br>
 
